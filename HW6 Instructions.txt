@@ -1,6 +1,0 @@
-HW 6 Instructions:
-
- (1.)Compile
- (2.)Run
- (3.)The main function is in Driver.cpp
- (4.)The main function demonstrates the SkiSchool class and displays these demonstrations as output
